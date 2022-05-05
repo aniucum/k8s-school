@@ -22,7 +22,6 @@ kubectl run web --image=nginx:latest
 ```
 ![task 01 05.img](/task-01/img/05.JPG)
 ![task 01 06.img](/task-01/img/06.JPG)
-
 ![task 01 07.img](/task-01/img/07.JPG)
-- Homework
+### Homework
 ![task 01 08.img](/task-01/img/08.JPG)
